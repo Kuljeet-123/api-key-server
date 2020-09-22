@@ -1,6 +1,6 @@
 ### Simple Key Server
 
-Simple server for Key management. Command to run the app - "ruby key_server.rb"
+Simple server for Key management. Command to run the app - "node index.js"
 
 Port used 8080
 
