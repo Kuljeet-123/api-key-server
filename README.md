@@ -4,11 +4,6 @@ Simple server for Key management. Command to run the app - "node index.js"
 
 Port used 8080
 
-### Libraries used
-	- sinatra
-	- rufus-scheduler
-
-
 ### Endpoints supported
 
 	-	GET /status : To get the status of the server, keys generated, blocked keys with time details
